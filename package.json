@@ -1,0 +1,15 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculateHours.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node calculateHours.js"
+  },
+  "author": "Markel Mckenzie",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

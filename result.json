@@ -1,0 +1,30 @@
+[
+  {
+    "EmployeeID": 37958607,
+    "StartOfWeek": "2021-08-22",
+    "RegularHours": 12.5,
+    "OvertimeHours": 0,
+    "InvalidShifts": []
+  },
+  {
+    "EmployeeID": 37958607,
+    "StartOfWeek": "2023-10-29",
+    "RegularHours": 16,
+    "OvertimeHours": 0,
+    "InvalidShifts": []
+  },
+  {
+    "EmployeeID": 37958607,
+    "StartOfWeek": "2023-11-05",
+    "RegularHours": 40,
+    "OvertimeHours": 3.5,
+    "InvalidShifts": []
+  },
+  {
+    "EmployeeID": 41488322,
+    "StartOfWeek": "2021-08-29",
+    "RegularHours": 8.5,
+    "OvertimeHours": 0,
+    "InvalidShifts": []
+  }
+]
